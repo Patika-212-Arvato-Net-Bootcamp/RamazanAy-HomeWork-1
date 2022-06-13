@@ -1,0 +1,15 @@
+D:\VS CODE\DenemeApp\DenemeApp\bin\Debug\net6.0\DenemeApp.exe
+D:\VS CODE\DenemeApp\DenemeApp\bin\Debug\net6.0\DenemeApp.deps.json
+D:\VS CODE\DenemeApp\DenemeApp\bin\Debug\net6.0\DenemeApp.runtimeconfig.json
+D:\VS CODE\DenemeApp\DenemeApp\bin\Debug\net6.0\DenemeApp.dll
+D:\VS CODE\DenemeApp\DenemeApp\bin\Debug\net6.0\DenemeApp.pdb
+D:\VS CODE\DenemeApp\DenemeApp\obj\Debug\net6.0\DenemeApp.csproj.AssemblyReference.cache
+D:\VS CODE\DenemeApp\DenemeApp\obj\Debug\net6.0\DenemeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS CODE\DenemeApp\DenemeApp\obj\Debug\net6.0\DenemeApp.AssemblyInfoInputs.cache
+D:\VS CODE\DenemeApp\DenemeApp\obj\Debug\net6.0\DenemeApp.AssemblyInfo.cs
+D:\VS CODE\DenemeApp\DenemeApp\obj\Debug\net6.0\DenemeApp.csproj.CoreCompileInputs.cache
+D:\VS CODE\DenemeApp\DenemeApp\obj\Debug\net6.0\DenemeApp.dll
+D:\VS CODE\DenemeApp\DenemeApp\obj\Debug\net6.0\refint\DenemeApp.dll
+D:\VS CODE\DenemeApp\DenemeApp\obj\Debug\net6.0\DenemeApp.pdb
+D:\VS CODE\DenemeApp\DenemeApp\obj\Debug\net6.0\DenemeApp.genruntimeconfig.cache
+D:\VS CODE\DenemeApp\DenemeApp\obj\Debug\net6.0\ref\DenemeApp.dll
